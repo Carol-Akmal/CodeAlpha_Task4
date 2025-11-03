@@ -1,38 +1,78 @@
-# 🌐 Portfolio Website
+🌐 Portfolio Website
+A responsive and modern personal portfolio website created by Carol Akmal during the CodeAlpha Internship, showcasing her web development projects, skills, and contact information.
+🧠 Overview
+This project serves as a digital portfolio for presenting Carol’s front-end development work and personal profile.
+It includes multiple sections such as Home, About, Projects, and Contact, all designed with a clean layout, soft colors, and smooth navigation.
+✨ Features
 
-A responsive personal portfolio website created during the **CodeAlpha Internship**, showcasing my web development projects, skills, and contact information.
 
-## 🧠 Overview
-This project was built to demonstrate my front-end development skills and to serve as my personal portfolio website.  
-It includes sections for my **projects**, **skills**, and **contact form** with smooth animations and a clean design.
+Fully responsive design built with HTML, CSS, and JavaScript
 
-## ✨ Features
-- Fully responsive design using **HTML**, **CSS**, and **JavaScript**
-- Smooth animations for a modern user experience
-- Contact form section with simple front-end validation
-- Organized project showcase and skills section
-- Clean and professional layout
 
-## 🛠 Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Bootstrap** (for responsiveness)
-- **Animations (CSS/JS)**
+Navigation with smooth scrolling between sections
 
-## 💻 How to Use
-1. Clone or download this repository.  
-2. Open the project folder.  
-3. Run the `index.html` file in your browser.  
-4. Explore the portfolio sections — Projects, Skills, and Contact.
 
-## 📬 Contact
-If you’d like to get in touch, feel free to connect with me:
+Interactive contact form with animations
 
-- 💼 [LinkedIn – Carol Akmal](https://www.linkedin.com/in/carol-akmal-7392772b7)
-- ✉️ Email: **carolakmal4@gmail.com**
 
----
+Showcases major projects (Music Player, Calculator, Image Gallery, and Portfolio Website)
 
-👩‍💻 **Developed by Carol Akmal**
+
+Organized presentation of technical and soft skills
+
+
+Simple, professional, and visually appealing interface
+
+
+🛠 Technologies Used
+
+
+HTML5
+
+
+CSS3
+
+
+JavaScript (Vanilla JS)
+
+
+Font Awesome (for icons)
+
+
+Google Fonts (Poppins)
+
+
+💻 How to Use
+
+
+Clone or download this repository.
+
+
+Open the project folder.
+
+
+Run the index.html file in your browser.
+
+
+Navigate through different sections using the header links.
+
+
+Try out the contact form and explore Carol’s featured projects.
+
+
+📬 Contact
+If you’d like to connect or collaborate, reach out to me here:
+
+
+💼 LinkedIn – Carol Akmal
+
+
+✉️ Email: carolakmal4@gmail.com
+
+
+📱 Phone: 01552315553
+
+
+
+👩‍💻 Developed by Carol Akmal
 
